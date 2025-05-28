@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="AllPatientsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AssignPatientForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DailyGlucoseChartForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DietExerciseTrackForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DietForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DoctorMainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ExerciseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GlucoseDietExerciseChartForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GlucoseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HastaEkleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InsulinFilterForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PatientGlucoseFormm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PatientGlucoseReportForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PatientInfoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PatientListForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PatientMainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RecommendationApproveForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ReportForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SymptomForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TrendForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ÖneriGirisForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
