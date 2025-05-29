@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\DatabaseScripts",
+    "\\DiabetesTracker"
   ],
+  "SelectedNode": "\\DiabetesTracker\\App.config",
   "PreviewInSolutionExplorer": false
 }
