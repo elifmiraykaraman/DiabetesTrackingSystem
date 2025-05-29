@@ -1,0 +1,14 @@
+SELECT TOP (1000) [user_id]
+      ,[tc_identity]
+      ,[password_hash]
+      ,[full_name]
+      ,[birth_date]
+      ,[gender]
+      ,[email]
+      ,[city]
+      ,[profile_pic]
+      ,[created_at]
+  FROM [DiyabetDB].[dbo].[users]
+ USE DiyabetDB;
+GO
+
