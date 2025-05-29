@@ -1,0 +1,14 @@
+## Visual Studio 
+.vs/           
+bin/           
+obj/           
+*.user         
+*.suo          
+                   boü satçr iáin `echo.` kullançn
+## Paket       
+packages/      
+*.nupkg        
+                   bir boü satçr daha
+## OS dosyalarç
+Thumbs.db      
+Desktop.ini    
